@@ -278,8 +278,8 @@ With `inventory_save: false`:
 Contributions are welcome! Feel free to:
 - 🐛 Report bugs via [GitHub Issues](https://github.com/Gamer100309/OpManager/issues)
 - 💡 Suggest features via [GitHub Pull requests](https://github.com/Gamer100309/OpManager/pulls)
-- 🌐 Submit translations via Pull Requests
-- 📝 Improve documentation via Pull Requests
+- 🌐 Submit translations via [GitHub Pull requests](https://github.com/Gamer100309/OpManager/pulls)
+- 📝 Improve documentation via [GitHub Pull requests](https://github.com/Gamer100309/OpManager/pulls)
 
 **Pull Requests are welcome!** Please make sure to:
 1. Fork the repository
