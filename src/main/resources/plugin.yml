@@ -1,5 +1,5 @@
-name: OpManager
-version: 4.0
+name: OpManagerRCI
+version: '${project.version}'
 main: RedCity_Industries.opmanager.OpManagerPlugin
 api-version: '1.21'
 author: RedCity Industries | Gamer100309
