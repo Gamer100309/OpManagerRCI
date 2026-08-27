@@ -1,7 +1,7 @@
 # OpManager
 
-![Version](https://img.shields.io/badge/version-4.0-blue)
-![Minecraft](https://img.shields.io/badge/minecraft-1.21-green)
+![Version](https://img.shields.io/badge/version-4.1-blue)
+![Minecraft](https://img.shields.io/badge/minecraft-26.2-green)
 ![License](https://img.shields.io/badge/license-GPL%20v3-blue)
 
 **A safe and lightweight OP management plugin that saves and restores player data when granting temporary operator permissions.**
@@ -316,9 +316,9 @@ For general questions, feel free to open a discussion on GitHub!
 ## 🎉 Credits
 
 **Created by**: RedCity Industries | Gamer100309  
-**Version**: 4.0  
-**Minecraft Version**: 1.21+  
-**API Version**: 1.21
+**Version**: 4.1  
+**Minecraft Version**: 26.2  
+**API Version**: 26.2
 
 ---
 
