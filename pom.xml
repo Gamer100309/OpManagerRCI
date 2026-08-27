@@ -8,13 +8,13 @@
     <!-- Deine Plugin-Identifikation -->
     <groupId>RedCity_Industries</groupId>
     <artifactId>OpManager</artifactId>
-    <version>4.0</version>
+    <version>4.1</version>
     <packaging>jar</packaging>
 
     <!-- Java Version -->
     <properties>
-        <maven.compiler.source>21</maven.compiler.source>
-        <maven.compiler.target>21</maven.compiler.target>
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -31,7 +31,7 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.21.1-R0.1-SNAPSHOT</version>
+            <version>26.2.build.99-stable</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
